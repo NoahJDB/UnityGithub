@@ -47,3 +47,21 @@ TagManager:
   - name: HP
     uniqueID: 1596376063
     locked: 0
+  - name: backround
+    uniqueID: 1983813769
+    locked: 0
+  - name: background mist
+    uniqueID: 3423689071
+    locked: 0
+  - name: planten
+    uniqueID: 353739149
+    locked: 0
+  - name: ground + platform
+    uniqueID: 790858949
+    locked: 0
+  - name: power ups en pick ups
+    uniqueID: 672693393
+    locked: 0
+  - name: charachter
+    uniqueID: 1162325463
+    locked: 0
